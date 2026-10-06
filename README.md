@@ -26,6 +26,9 @@
 * Undo/Redo for every operation and support for [non-linear undo](https://imgur.com/9I42fZK).
 * [More features &amp; tips](https://twitter.com/aseprite/status/1124442198651678720)
 
+## I18n
+[汉化包＋主题包](https://github.com/J-11/Aseprite-Simplified-Chinese/blob/master/README.md)
+
 ## Issues
 
 There is a list of
